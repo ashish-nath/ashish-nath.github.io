@@ -7,6 +7,67 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Ashish Nath</copyright>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apple: iPhone 14, Watch 8, and Sustaining Innovation</title>
+      <link>http://localhost:1313/posts/202209-apple-sustaining-innovation/</link>
+      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/202209-apple-sustaining-innovation/</guid>
+      <description>On the 7th of September, Apple held its “Far Out” iPhone event. New iPhones, Apple Watches, and AirPods were announced, each coming with a plethora of features. Yes, all of it was innovation, but none of it brought the kind of excitement Apple used to. Why is that? And why probably this is the best strategy for Apple.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/202209-apple-sustaining-innovation/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Mon, 13 Jun 2022 21:28:51 +0100</pubDate>
+      
+      <guid>http://localhost:1313/resume/</guid>
+      <description> Download Resume
+Experience Company Link Role Dates Location IIT Guwahati Machine Learning Intern Jun 2023 - Dec 2023 Hybrid Guwahati, As XopunTech (India) Pvt.Ltd React Developer Intern Jun 2022 - Aug 2022 Full Remote Guwahati, As FreeLancer Freelance Mar 2019 - Jan 2021 Full Remote Tezpur, As Education School Link Degree Date Kaziranga University BTech, Computer Science 2020-2024 KV CUT Tezpur High School 2017-2019 </description>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 13 Jun 2022 20:55:37 +0100</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>As a seasoned Full Stack Developer, my skill set encompasses a wide range of technologies including ReactJS, NodeJS, MongoDB, Python, CSS3, HTML5, JavaScript, Django, and Next.js. Have worked on various projects that are latest for Industry and Market requirement Published on my Github.</description>
+      
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>http://localhost:1313/music/</link>
+      <pubDate>Mon, 13 Jun 2022 20:55:37 +0100</pubDate>
+      
+      <guid>http://localhost:1313/music/</guid>
+      <description>I started learning music by myself at the age of 14. I play several instruments and I love to record, compose and produce my own music. I&amp;rsquo;ve been releasing my songs under the name N9O in most streaming services.</description>
+      
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 13 Jun 2022 20:55:37 +0100</pubDate>
+      
+      <guid>http://localhost:1313/projects/</guid>
+      <description>I always try to find time to work and learn something new. Usually, most of these pet-projects don&amp;rsquo;t see the light of day. They are, however, great opportunities to try something in the real world and learn from it.</description>
+      
+    </item>
+    
+    <item>
+      <title>The Future of the Nintendo Switch</title>
+      <link>http://localhost:1313/posts/202109-the-future-of-nintendo/</link>
+      <pubDate>Thu, 09 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/202109-the-future-of-nintendo/</guid>
+      <description>Nintendo achieved something truly amazing with the launch of the Switch. It was able to disrupt itself and the entire gaming industry while saving itself from doom. How exactly was Nintendo able to do it and what comes next in that story?</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/202109-the-future-of-nintendo/feature.jpeg" />
+    </item>
+    
   </channel>
 </rss>
